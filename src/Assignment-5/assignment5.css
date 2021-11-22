@@ -25,7 +25,7 @@ body{
     display: flex;
     margin: 3vh auto 3vh auto;
     margin-top: 50px;
-    height: 300px;
+    height: 400px;
     justify-content: center;
     max-width: 800px;
     cursor: pointer;
@@ -36,6 +36,7 @@ body{
 }
 .left_side{
     background-color: rgb(133, 214, 133);
+    width: 400px;
 }
 .right_side{
     background-color: #fff;
@@ -71,7 +72,8 @@ img{
     position: relative;
     display: block;
     padding-right: 100px;
-    height: 300px;
+    height: 400px;
+    width: 600px;
     margin: -5vh -4vw 5vh -2vw;
     z-index: auto;
 }
