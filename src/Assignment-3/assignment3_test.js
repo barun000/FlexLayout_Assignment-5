@@ -1,4 +1,4 @@
-// Copyright (c) 2015 Titanium I.T. LLC. All rights reserved. For license, see "README" or "LICENSE" file.
+// Copyright (c) 2015 Titanium I.T.. LLC. All rights reserved. For license, see "README" or "LICENSE" file.
 
 // Example Quixote unit tests. We're using Mocha as our test framework and Chai for assertions.
 // These tests check the our media object CSS, which is defined in `assignment2.css`.
